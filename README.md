@@ -1,2 +1,2 @@
 # python
-curso python 
+## Iniciando o estudo de python
