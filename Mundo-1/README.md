@@ -1,0 +1,4 @@
+#Resolução dos seguintes exercícios:
+
+
+
